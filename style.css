@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+header{
+    position: fixed;
+}
+header nav{
+    background-color: red;
+}
+header div{
+    color: white;
+}
+header a{
+    color: white;
+}
+header img{
+    height: 58;
+    width: 250;
+}
+p{
+    color: white;
+}
+h4 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+h5 {
+    color: white;
+}
